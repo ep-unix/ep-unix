@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ep-unix/static/css/main.f7927bc5.css",
+    "main.js": "/ep-unix/static/js/main.06ee8b67.js",
+    "index.html": "/ep-unix/index.html",
+    "main.f7927bc5.css.map": "/ep-unix/static/css/main.f7927bc5.css.map",
+    "main.06ee8b67.js.map": "/ep-unix/static/js/main.06ee8b67.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f7927bc5.css",
+    "static/js/main.06ee8b67.js"
+  ]
+}
