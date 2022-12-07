@@ -1,3 +1,12 @@
+# Sign up/Register forms with working authorization.
+
+## Resources used:
+
+* create-react-app
+* Firebase
+* TailwindCSS
+* MUI Icons
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
